@@ -1,0 +1,2 @@
+text_recognition_config_yml_path = None
+text_recognition_weights_path = None
